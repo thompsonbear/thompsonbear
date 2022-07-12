@@ -7,7 +7,7 @@
 <ul>
   <li>CompTIA Linux+ Certification</li>
   <li>Building websites with Django</li>
-  <li>Learning Svelte</li>
+  <li>Learning Svelte (JS Frontend Framework)</li>
   <li>Gaining proficiency with Go frameworks</li>
 </ul>
 
