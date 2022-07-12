@@ -1,5 +1,5 @@
 # Hi, I'm Thompson Bear :bear:
-### Network/Cloud Engineer and aspiring DevOps/Software Engineer
+### Network/Cloud Engineer and aspiring DevOps Engineer/Full Stack Web Developer
 
 [Website](https://thompsonbear.com) | [LinkedIn](https://www.linkedin.com/in/thompsonbear/)
 
