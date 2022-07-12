@@ -1,7 +1,7 @@
 # Hi, I'm Thompson Bear :bear:
 ### Network/Cloud Engineer and aspiring DevOps Engineer/Full Stack Web Developer
 
-<a href="https://thompsonbear.com" target="_blank">Website </a>|<a href="https://www.linkedin.com/in/thompsonbear" target="_blank"> LinkedIn</a>
+[Website](https://thompsonbear.com) | [LinkedIn](https://www.linkedin.com/in/thompsonbear/)
 
 <p>What I'm currently working on:</p>
 <ul>
