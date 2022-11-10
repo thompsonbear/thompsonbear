@@ -7,8 +7,7 @@
 <ul>
   <li>CompTIA Linux+ Certification</li>
   <li>Building websites with Django</li>
-  <li>Learning Svelte (JS Frontend Framework)</li>
-  <li>Gaining proficiency with Go frameworks</li>
+  <li>Mastering IT Automation Tools</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
