@@ -1,11 +1,12 @@
 # Hi, I'm Thompson Bear :bear:
-### Network/Cloud Engineer and aspiring DevOps Engineer/Full Stack Web Developer
+### Network/Cloud Engineer and aspiring DevOps Engineer/Site Reliability Engineer
 
 [Website](https://thompsonbear.com) | [LinkedIn](https://www.linkedin.com/in/thompsonbear/)
 
 <p>What I'm currently working on:</p>
 <ul>
   <li>CompTIA Linux+ Certification</li>
+  <li>AZ-400 (Azure DevOps Expert) Certification</li>
   <li>Building websites with Django</li>
   <li>Mastering IT Automation Tools</li>
 </ul>
