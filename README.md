@@ -1,5 +1,5 @@
 # Hi, I'm Thompson Bear :bear:
-### Network/Cloud Engineer and aspiring DevOps Engineer/Site Reliability Engineer
+### Network/Cloud Engineer and aspiring DevOps/Site Reliability Engineer
 
 [Website](https://thompsonbear.com) | [LinkedIn](https://www.linkedin.com/in/thompsonbear/)
 
