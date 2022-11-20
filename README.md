@@ -7,7 +7,6 @@
 <ul>
   <li>CompTIA Linux+ Certification</li>
   <li>AZ-400 (Azure DevOps Expert) Certification</li>
-  <li>Building websites with Django</li>
   <li>Mastering IT Automation Tools</li>
 </ul>
 
